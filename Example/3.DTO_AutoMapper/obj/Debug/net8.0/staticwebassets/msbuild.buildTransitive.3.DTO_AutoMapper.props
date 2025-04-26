@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\3.DTO_AutoMapper.props" />
+</Project>

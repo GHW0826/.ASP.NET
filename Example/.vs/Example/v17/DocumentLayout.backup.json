@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\.ASP.NET\\Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|d:\\git\\.asp.net\\example\\3.dto_automapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|solutionrelative:3.dto_automapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|d:\\git\\.asp.net\\example\\3.dto_automapper\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|solutionrelative:3.dto_automapper\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|d:\\git\\.asp.net\\example\\3.dto_automapper\\profiles\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|solutionrelative:3.dto_automapper\\profiles\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|d:\\git\\.asp.net\\example\\3.dto_automapper\\models\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|solutionrelative:3.dto_automapper\\models\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|d:\\git\\.asp.net\\example\\3.dto_automapper\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|solutionrelative:3.dto_automapper\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|d:\\git\\.asp.net\\example\\3.dto_automapper\\models\\dtos\\gettododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|solutionrelative:3.dto_automapper\\models\\dtos\\gettododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|d:\\git\\.asp.net\\example\\3.dto_automapper\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|solutionrelative:3.dto_automapper\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9B3103-FCAA-46A0-AB21-80EE99AD4946}|2.CRUDAPI\\2.CRUDAPI.csproj|d:\\git\\.asp.net\\example\\2.crudapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9B3103-FCAA-46A0-AB21-80EE99AD4946}|2.CRUDAPI\\2.CRUDAPI.csproj|solutionrelative:2.crudapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9B3103-FCAA-46A0-AB21-80EE99AD4946}|2.CRUDAPI\\2.CRUDAPI.csproj|d:\\git\\.asp.net\\example\\2.crudapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9B3103-FCAA-46A0-AB21-80EE99AD4946}|2.CRUDAPI\\2.CRUDAPI.csproj|solutionrelative:2.crudapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1EB2CF-93AE-4B8A-AD8C-2944A86F9ED1}|1.BasicAPI_Route\\1.BasicAPI_Route.csproj|d:\\git\\.asp.net\\example\\1.basicapi_route\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1EB2CF-93AE-4B8A-AD8C-2944A86F9ED1}|1.BasicAPI_Route\\1.BasicAPI_Route.csproj|solutionrelative:1.basicapi_route\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1EB2CF-93AE-4B8A-AD8C-2944A86F9ED1}|1.BasicAPI_Route\\1.BasicAPI_Route.csproj|d:\\git\\.asp.net\\example\\1.basicapi_route\\1.basicapi_route.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3D1EB2CF-93AE-4B8A-AD8C-2944A86F9ED1}|1.BasicAPI_Route\\1.BasicAPI_Route.csproj|solutionrelative:1.basicapi_route\\1.basicapi_route.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Program.cs",
+              "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Program.cs",
+              "RelativeToolTip": "3.DTO_AutoMapper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:30:53.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Models\\Dtos\\CreateTodoDto.cs",
+              "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Models\\Dtos\\CreateTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Models\\Dtos\\CreateTodoDto.cs",
+              "RelativeToolTip": "3.DTO_AutoMapper\\Models\\Dtos\\CreateTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:24:10.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Models\\TodoItem.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Models\\TodoItem.cs",
+              "RelativeToolTip": "3.DTO_AutoMapper\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:23:29.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "3.DTO_AutoMapper\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:23:11.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Models\\Dtos\\GetTodoDto.cs",
+              "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Models\\Dtos\\GetTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Models\\Dtos\\GetTodoDto.cs",
+              "RelativeToolTip": "3.DTO_AutoMapper\\Models\\Dtos\\GetTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:24:40.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Models\\Dtos\\UpdateTodoDto.cs",
+              "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Models\\Dtos\\UpdateTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Models\\Dtos\\UpdateTodoDto.cs",
+              "RelativeToolTip": "3.DTO_AutoMapper\\Models\\Dtos\\UpdateTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:25:18.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoProfile.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Profiles\\TodoProfile.cs",
+              "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Profiles\\TodoProfile.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Profiles\\TodoProfile.cs",
+              "RelativeToolTip": "3.DTO_AutoMapper\\Profiles\\TodoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:25:41.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\2.CRUDAPI\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "2.CRUDAPI\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\2.CRUDAPI\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "2.CRUDAPI\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:12:16.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\2.CRUDAPI\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "2.CRUDAPI\\Models\\TodoItem.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\2.CRUDAPI\\Models\\TodoItem.cs",
+              "RelativeToolTip": "2.CRUDAPI\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:11:47.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\1.BasicAPI_Route\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "1.BasicAPI_Route\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\1.BasicAPI_Route\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "1.BasicAPI_Route\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:09:27.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "1.BasicAPI_Route.http",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\1.BasicAPI_Route\\1.BasicAPI_Route.http",
+              "RelativeDocumentMoniker": "1.BasicAPI_Route\\1.BasicAPI_Route.http",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\1.BasicAPI_Route\\1.BasicAPI_Route.http",
+              "RelativeToolTip": "1.BasicAPI_Route\\1.BasicAPI_Route.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-26T13:09:15.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
