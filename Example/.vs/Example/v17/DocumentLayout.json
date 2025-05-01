@@ -3,6 +3,190 @@
   "WorkspaceRootPath": "D:\\git\\.ASP.NET\\Example\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\migrations\\20250427081907_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\migrations\\20250427081907_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\validators\\todoupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\validators\\todoupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\validators\\todocreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\validators\\todocreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\profiles\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\profiles\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\models\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\models\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\models\\dtos\\gettododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\models\\dtos\\gettododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\migrations\\20250427081907_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\migrations\\20250427081907_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\6.globalexceptionmiddleware.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\6.globalexceptionmiddleware.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|d:\\git\\.asp.net\\example\\6.globalexceptionmiddleware\\6.globalexceptionmiddleware.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5886BEB6-3CA3-45FE-846E-044A57673368}|6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj|solutionrelative:6.globalexceptionmiddleware\\6.globalexceptionmiddleware.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\validators\\todoupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\validators\\todoupdatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\5.fluentvalidation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\5.fluentvalidation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\validators\\todocreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\validators\\todocreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\migrations\\20250427081907_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\migrations\\20250427081907_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\migrations\\20250427081907_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\migrations\\20250427081907_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\models\\dtos\\gettododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\models\\dtos\\gettododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\models\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\models\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|d:\\git\\.asp.net\\example\\5.fluentvalidation\\profiles\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664E5123-20F2-4231-8627-5855577C0C93}|5.FluentValidation\\5.FluentValidation.csproj|solutionrelative:5.fluentvalidation\\profiles\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|d:\\git\\.asp.net\\example\\4.efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|solutionrelative:4.efcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|d:\\git\\.asp.net\\example\\4.efcore\\todo.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|solutionrelative:4.efcore\\todo.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|d:\\git\\.asp.net\\example\\4.efcore\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|solutionrelative:4.efcore\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|d:\\git\\.asp.net\\example\\4.efcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|solutionrelative:4.efcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|d:\\git\\.asp.net\\example\\4.efcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|solutionrelative:4.efcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|d:\\git\\.asp.net\\example\\4.efcore\\4.efcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|solutionrelative:4.efcore\\4.efcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|d:\\git\\.asp.net\\example\\3.dto_automapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|solutionrelative:3.dto_automapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|d:\\git\\.asp.net\\example\\4.efcore\\profiles\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|solutionrelative:4.efcore\\profiles\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|d:\\git\\.asp.net\\example\\4.efcore\\4.efcore.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|solutionrelative:4.efcore\\4.efcore.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|d:\\git\\.asp.net\\example\\4.efcore\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|solutionrelative:4.efcore\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|d:\\git\\.asp.net\\example\\4.efcore\\models\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|solutionrelative:4.efcore\\models\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|d:\\git\\.asp.net\\example\\4.efcore\\models\\dtos\\gettododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|solutionrelative:4.efcore\\models\\dtos\\gettododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|d:\\git\\.asp.net\\example\\4.efcore\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA13833D-FA88-4835-940E-23AEA986D405}|4.EFCore\\4.EFCore.csproj|solutionrelative:4.efcore\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1EB2CF-93AE-4B8A-AD8C-2944A86F9ED1}|1.BasicAPI_Route\\1.BasicAPI_Route.csproj|d:\\git\\.asp.net\\example\\1.basicapi_route\\1.basicapi_route.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3D1EB2CF-93AE-4B8A-AD8C-2944A86F9ED1}|1.BasicAPI_Route\\1.BasicAPI_Route.csproj|solutionrelative:1.basicapi_route\\1.basicapi_route.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|d:\\git\\.asp.net\\example\\3.dto_automapper\\3.dto_automapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|solutionrelative:3.dto_automapper\\3.dto_automapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|d:\\git\\.asp.net\\example\\3.dto_automapper\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|solutionrelative:3.dto_automapper\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +197,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|d:\\git\\.asp.net\\example\\3.dto_automapper\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|solutionrelative:3.dto_automapper\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|d:\\git\\.asp.net\\example\\3.dto_automapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|solutionrelative:3.dto_automapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89F3F0E8-FAF5-4240-B302-6ADE341E4355}|3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj|d:\\git\\.asp.net\\example\\3.dto_automapper\\profiles\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +221,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3D1EB2CF-93AE-4B8A-AD8C-2944A86F9ED1}|1.BasicAPI_Route\\1.BasicAPI_Route.csproj|d:\\git\\.asp.net\\example\\1.basicapi_route\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D1EB2CF-93AE-4B8A-AD8C-2944A86F9ED1}|1.BasicAPI_Route\\1.BasicAPI_Route.csproj|solutionrelative:1.basicapi_route\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D1EB2CF-93AE-4B8A-AD8C-2944A86F9ED1}|1.BasicAPI_Route\\1.BasicAPI_Route.csproj|d:\\git\\.asp.net\\example\\1.basicapi_route\\1.basicapi_route.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{3D1EB2CF-93AE-4B8A-AD8C-2944A86F9ED1}|1.BasicAPI_Route\\1.BasicAPI_Route.csproj|solutionrelative:1.basicapi_route\\1.basicapi_route.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +230,552 @@
       "DocumentGroups": [
         {
           "DockedWidth": 271,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvzgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:50:00.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250427081907_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Migrations\\20250427081907_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Migrations\\20250427081907_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Migrations\\20250427081907_InitialCreate.Designer.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Migrations\\20250427081907_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:39:24.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Program.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Program.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:39:09.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "TodoUpdateDtoValidator.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Validators\\TodoUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Validators\\TodoUpdateDtoValidator.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Validators\\TodoUpdateDtoValidator.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Validators\\TodoUpdateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:39:03.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoProfile.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Profiles\\TodoProfile.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Profiles\\TodoProfile.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Profiles\\TodoProfile.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Profiles\\TodoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:38:45.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Models\\TodoItem.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Models\\TodoItem.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:38:41.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Models\\Dtos\\UpdateTodoDto.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Models\\Dtos\\UpdateTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Models\\Dtos\\UpdateTodoDto.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Models\\Dtos\\UpdateTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:38:36.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Models\\Dtos\\GetTodoDto.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Models\\Dtos\\GetTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Models\\Dtos\\GetTodoDto.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Models\\Dtos\\GetTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:38:31.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoCreateDtoValidator.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Validators\\TodoCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Validators\\TodoCreateDtoValidator.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Validators\\TodoCreateDtoValidator.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Validators\\TodoCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:37:25.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Models\\Dtos\\CreateTodoDto.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Models\\Dtos\\CreateTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Models\\Dtos\\CreateTodoDto.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Models\\Dtos\\CreateTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:38:28.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:38:18.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250427081907_InitialCreate.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Migrations\\20250427081907_InitialCreate.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Migrations\\20250427081907_InitialCreate.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Migrations\\20250427081907_InitialCreate.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Migrations\\20250427081907_InitialCreate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:38:12.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:38:01.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:37:45.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\Properties\\launchSettings.json",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T08:37:39.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "6.GlobalExceptionMiddleware",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T08:37:30.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "6.GlobalExceptionMiddleware.http",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.http",
+              "RelativeDocumentMoniker": "6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.http",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.http",
+              "RelativeToolTip": "6.GlobalExceptionMiddleware\\6.GlobalExceptionMiddleware.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-27T08:37:04.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TodoCreateDtoValidator.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Validators\\TodoCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "5.FluentValidation\\Validators\\TodoCreateDtoValidator.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Validators\\TodoCreateDtoValidator.cs",
+              "RelativeToolTip": "5.FluentValidation\\Validators\\TodoCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:31:26.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "5.FluentValidation",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\5.FluentValidation.csproj",
+              "RelativeDocumentMoniker": "5.FluentValidation\\5.FluentValidation.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\5.FluentValidation.csproj",
+              "RelativeToolTip": "5.FluentValidation\\5.FluentValidation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T08:27:30.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Program.cs",
+              "RelativeDocumentMoniker": "5.FluentValidation\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Program.cs",
+              "RelativeToolTip": "5.FluentValidation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:25:53.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TodoUpdateDtoValidator.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Validators\\TodoUpdateDtoValidator.cs",
+              "RelativeDocumentMoniker": "5.FluentValidation\\Validators\\TodoUpdateDtoValidator.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Validators\\TodoUpdateDtoValidator.cs",
+              "RelativeToolTip": "5.FluentValidation\\Validators\\TodoUpdateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:32:26.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250427081907_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Migrations\\20250427081907_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "5.FluentValidation\\Migrations\\20250427081907_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Migrations\\20250427081907_InitialCreate.Designer.cs",
+              "RelativeToolTip": "5.FluentValidation\\Migrations\\20250427081907_InitialCreate.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAywAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:27:57.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Models\\Dtos\\CreateTodoDto.cs",
+              "RelativeDocumentMoniker": "5.FluentValidation\\Models\\Dtos\\CreateTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Models\\Dtos\\CreateTodoDto.cs",
+              "RelativeToolTip": "5.FluentValidation\\Models\\Dtos\\CreateTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:26:34.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "5.FluentValidation\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "5.FluentValidation\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:27:18.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "5.FluentValidation\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "5.FluentValidation\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:27:11.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "5.FluentValidation\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "5.FluentValidation\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:26:54.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250427081907_InitialCreate.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Migrations\\20250427081907_InitialCreate.cs",
+              "RelativeDocumentMoniker": "5.FluentValidation\\Migrations\\20250427081907_InitialCreate.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Migrations\\20250427081907_InitialCreate.cs",
+              "RelativeToolTip": "5.FluentValidation\\Migrations\\20250427081907_InitialCreate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:26:48.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "5.FluentValidation\\Models\\TodoItem.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Models\\TodoItem.cs",
+              "RelativeToolTip": "5.FluentValidation\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:26:41.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Models\\Dtos\\GetTodoDto.cs",
+              "RelativeDocumentMoniker": "5.FluentValidation\\Models\\Dtos\\GetTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Models\\Dtos\\GetTodoDto.cs",
+              "RelativeToolTip": "5.FluentValidation\\Models\\Dtos\\GetTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:26:39.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Models\\Dtos\\UpdateTodoDto.cs",
+              "RelativeDocumentMoniker": "5.FluentValidation\\Models\\Dtos\\UpdateTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Models\\Dtos\\UpdateTodoDto.cs",
+              "RelativeToolTip": "5.FluentValidation\\Models\\Dtos\\UpdateTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:26:36.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TodoProfile.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Profiles\\TodoProfile.cs",
+              "RelativeDocumentMoniker": "5.FluentValidation\\Profiles\\TodoProfile.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\5.FluentValidation\\Profiles\\TodoProfile.cs",
+              "RelativeToolTip": "5.FluentValidation\\Profiles\\TodoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:26:18.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "todo.db",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\todo.db",
+              "RelativeDocumentMoniker": "4.EFCore\\todo.db",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\todo.db",
+              "RelativeToolTip": "4.EFCore\\todo.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAICSURBVDhPrZXNa9JhAIAfx6iZBM7EpWBTpzMdW6tZsA5F0K1T3QZBHwuCgsFYTiaYRFGE7NAH0aAoYtCl/8EOoRteNkhL13TiRqMlBFux\u002BfupXRL09Wfp6Dm9H8/7wHt5XxV/mPJ5M1C2VOaNUa3IJc6HQqEFcYdyuayqjKd8t8p37t6vFRQIBvyo1eofmz\u002B3zyhF28SFZrh8ZVS7X9MR9nq9g\u002BLeroIHjaaG0V0F\u002BUu0vVarZXV9g\u002BRyDrfDgtGgA0Cr1RIM\u002BKs1bXsbYaCTRsFf2zssflqmsFNgc2uLxFKadDaHw2ZmfGJS1AkG/NrKWPHK8VSGbxt5SqUingEXxaJMdvUrubV1Ua1DMTjosiPLMnaLGeshE05bN7Is0e9yiGodisF4Ko0kFYgnv7CUzrKYSCFJEu8jMVGtQzFo7NJjNOiRJInwh3mKsoxB38nw0BFRrUMx2KXXcXp4iAGXg469e3A7bZw9dZJMLsdNX4CFj3G\u002B5/PiMWgUrNBtNjFy4RzOHitPXrzm\u002BatZ\u002BnrtPHo2w8zLN6IO/wpW43b00Ndr58boJfpdh\u002Bl12EQFWgkmPieZj8WYfvyUSHSOSDQqKtBK8OrFEcauXyManWNyfIx7wduiAq0E9Qd0eI4d5d3bWU4c96DR7BMVaCXYLP89WPViT2RA1cQXoER55cHDaSvAb9pFqY18f9aRAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-27T08:21:18.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\appsettings.json",
+              "RelativeDocumentMoniker": "4.EFCore\\appsettings.json",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\appsettings.json",
+              "RelativeToolTip": "4.EFCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T08:08:04.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "4.EFCore\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "4.EFCore\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:06:56.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "4.EFCore",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\4.EFCore.csproj",
+              "RelativeDocumentMoniker": "4.EFCore\\4.EFCore.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\4.EFCore.csproj",
+              "RelativeToolTip": "4.EFCore\\4.EFCore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T08:05:15.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Program.cs",
+              "RelativeDocumentMoniker": "4.EFCore\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Program.cs",
+              "RelativeToolTip": "4.EFCore\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:03:45.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "4.EFCore\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "4.EFCore\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:02:26.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TodoProfile.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Profiles\\TodoProfile.cs",
+              "RelativeDocumentMoniker": "4.EFCore\\Profiles\\TodoProfile.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Profiles\\TodoProfile.cs",
+              "RelativeToolTip": "4.EFCore\\Profiles\\TodoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:03:34.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "4.EFCore.http",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\4.EFCore.http",
+              "RelativeDocumentMoniker": "4.EFCore\\4.EFCore.http",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\4.EFCore.http",
+              "RelativeToolTip": "4.EFCore\\4.EFCore.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-27T08:03:42.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "4.EFCore\\Models\\TodoItem.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Models\\TodoItem.cs",
+              "RelativeToolTip": "4.EFCore\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:03:15.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Models\\Dtos\\UpdateTodoDto.cs",
+              "RelativeDocumentMoniker": "4.EFCore\\Models\\Dtos\\UpdateTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Models\\Dtos\\UpdateTodoDto.cs",
+              "RelativeToolTip": "4.EFCore\\Models\\Dtos\\UpdateTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:03:12.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "GetTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Models\\Dtos\\GetTodoDto.cs",
+              "RelativeDocumentMoniker": "4.EFCore\\Models\\Dtos\\GetTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Models\\Dtos\\GetTodoDto.cs",
+              "RelativeToolTip": "4.EFCore\\Models\\Dtos\\GetTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:03:07.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Program.cs",
               "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Program.cs",
@@ -71,7 +788,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 43,
+              "Title": "CreateTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Models\\Dtos\\CreateTodoDto.cs",
+              "RelativeDocumentMoniker": "4.EFCore\\Models\\Dtos\\CreateTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\4.EFCore\\Models\\Dtos\\CreateTodoDto.cs",
+              "RelativeToolTip": "4.EFCore\\Models\\Dtos\\CreateTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:03:04.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "3.DTO_AutoMapper",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj",
+              "RelativeDocumentMoniker": "3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj",
+              "RelativeToolTip": "3.DTO_AutoMapper\\3.DTO_AutoMapper.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T08:01:51.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
               "Title": "TodoController.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Controllers\\TodoController.cs",
@@ -84,7 +827,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 44,
+              "Title": "1.BasicAPI_Route.http",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\1.BasicAPI_Route\\1.BasicAPI_Route.http",
+              "RelativeDocumentMoniker": "1.BasicAPI_Route\\1.BasicAPI_Route.http",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\1.BasicAPI_Route\\1.BasicAPI_Route.http",
+              "RelativeToolTip": "1.BasicAPI_Route\\1.BasicAPI_Route.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-26T13:09:15.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
               "Title": "CreateTodoDto.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Models\\Dtos\\CreateTodoDto.cs",
               "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Models\\Dtos\\CreateTodoDto.cs",
@@ -97,7 +853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 50,
               "Title": "GetTodoDto.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Models\\Dtos\\GetTodoDto.cs",
               "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Models\\Dtos\\GetTodoDto.cs",
@@ -110,7 +866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 47,
               "Title": "UpdateTodoDto.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Models\\Dtos\\UpdateTodoDto.cs",
               "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Models\\Dtos\\UpdateTodoDto.cs",
@@ -123,7 +879,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 51,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Models\\TodoItem.cs",
@@ -136,7 +892,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 49,
               "Title": "TodoProfile.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\3.DTO_AutoMapper\\Profiles\\TodoProfile.cs",
               "RelativeDocumentMoniker": "3.DTO_AutoMapper\\Profiles\\TodoProfile.cs",
@@ -149,7 +905,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 52,
               "Title": "TodoController.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\2.CRUDAPI\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "2.CRUDAPI\\Controllers\\TodoController.cs",
@@ -162,7 +918,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 53,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\2.CRUDAPI\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "2.CRUDAPI\\Models\\TodoItem.cs",
@@ -175,7 +931,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 54,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\1.BasicAPI_Route\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "1.BasicAPI_Route\\Controllers\\WeatherForecastController.cs",
@@ -184,19 +940,6 @@
               "ViewState": "AgIAAAYAAAAAAAAAAADwvxYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T13:09:27.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "1.BasicAPI_Route.http",
-              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\1.BasicAPI_Route\\1.BasicAPI_Route.http",
-              "RelativeDocumentMoniker": "1.BasicAPI_Route\\1.BasicAPI_Route.http",
-              "ToolTip": "D:\\git\\.ASP.NET\\Example\\1.BasicAPI_Route\\1.BasicAPI_Route.http",
-              "RelativeToolTip": "1.BasicAPI_Route\\1.BasicAPI_Route.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-26T13:09:15.576Z",
               "EditorCaption": ""
             }
           ]
