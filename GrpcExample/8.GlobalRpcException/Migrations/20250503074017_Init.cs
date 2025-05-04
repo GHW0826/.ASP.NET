@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace HealthCheckEndpoint.Migrations
+namespace GlobalRpcException.Migrations
 {
     /// <inheritdoc />
     public partial class Init : Migration

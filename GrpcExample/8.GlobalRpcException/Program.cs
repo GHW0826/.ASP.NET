@@ -1,14 +1,14 @@
 ﻿using FluentValidation;
-using HealthCheckEndpoint;
-using HealthCheckEndpoint.Auth;
-using HealthCheckEndpoint.Context;
-using HealthCheckEndpoint.Repositories;
-using HealthCheckEndpoint.Repository;
-using HealthCheckEndpoint.Services;
-using HealthCheckEndpoint.Validators;
+using GlobalRpcException;
+using GlobalRpcException.Auth;
+using GlobalRpcException.Context;
+using GlobalRpcException.Repositories;
+using GlobalRpcException.Repository;
+using GlobalRpcException.Services;
+using GlobalRpcException.Validators;
 using Microsoft.AspNetCore.Server.Kestrel.Core;
 using Microsoft.EntityFrameworkCore;
-using HealthCheckEndpoint.Interceptors;
+using GlobalRpcException.Interceptors;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
@@ -57,7 +57,7 @@ var app = builder.Build();
 app.MapControllers();
 // Configure the HTTP request pipeline.
 app.MapGrpcService<GreeterService>();
-app.MapGrpcService<HealthCheckEndpoint.Services.UserService>();  // UserService 등록
+app.MapGrpcService<GlobalRpcException.Services.UserService>();  // UserService 등록
 app.MapGet("/", () => "Communication with gRPC endpoints must be made through a gRPC client. To learn how to create a client, visit: https://go.microsoft.com/fwlink/?linkid=2086909");
 
 app.Run();

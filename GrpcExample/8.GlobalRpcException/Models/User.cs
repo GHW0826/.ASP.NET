@@ -1,4 +1,4 @@
-﻿namespace HealthCheckEndpoint.Models;
+﻿namespace GlobalRpcException.Models;
 
 public class User
 {

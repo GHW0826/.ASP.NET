@@ -1,7 +1,7 @@
 using Grpc.Core;
-using HealthCheckEndpoint;
+using GlobalRpcException;
 
-namespace HealthCheckEndpoint.Services;
+namespace GlobalRpcException.Services;
 
 public class GreeterService : Greeter.GreeterBase
 {

@@ -1,7 +1,7 @@
 ﻿using Grpc.Core.Interceptors;
 using Grpc.Core;
 
-namespace HealthCheckEndpoint.Interceptors;
+namespace GlobalRpcException.Interceptors;
 
 public class RoleInterceptor : Interceptor
 {

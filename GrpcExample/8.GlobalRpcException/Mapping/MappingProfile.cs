@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using HealthCheckEndpoint.Models;
-using HealthCheckEndpoint.Models.Dto;
+using GlobalRpcException.Models;
+using GlobalRpcException.Models.Dto;
 
-namespace HealthCheckEndpoint.Mapping;
+namespace GlobalRpcException.Mapping;
 
 public class MappingProfile : Profile
 {

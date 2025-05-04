@@ -1,4 +1,4 @@
-﻿namespace HealthCheckEndpoint.Models.Dto;
+﻿namespace GlobalRpcException.Models.Dto;
 
 public class UserDto
 {

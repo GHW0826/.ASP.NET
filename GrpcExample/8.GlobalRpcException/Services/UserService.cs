@@ -1,15 +1,15 @@
 using AutoMapper;
 using Grpc.Core;
-using HealthCheckEndpoint.Models.Dto;
-using HealthCheckEndpoint.Repository;
-using HealthCheckEndpoint.Repositories;
-using HealthCheckEndpoint;
+using GlobalRpcException.Models.Dto;
+using GlobalRpcException.Repository;
+using GlobalRpcException.Repositories;
+using GlobalRpcException;
 using FluentValidation;
 using Google.Protobuf.WellKnownTypes;
 
-namespace HealthCheckEndpoint.Services;
+namespace GlobalRpcException.Services;
 
-public class UserService : HealthCheckEndpoint.UserService.UserServiceBase
+public class UserService : GlobalRpcException.UserService.UserServiceBase
 {
     private readonly IUserRepository _repo;
     private readonly IMapper _mapper;
@@ -28,7 +28,7 @@ public class UserService : HealthCheckEndpoint.UserService.UserServiceBase
 
     public override Task<AdminReply> AdminOnly(Empty request, ServerCallContext context)
     {
-        // 일부러 예외 발생 8.HealthCheckEndpoint 예외 처리 확인
+        // 일부러 예외 발생 8.GlobalRpcException 예외 처리 확인
         // throw new InvalidOperationException("예외 테스트용 강제 오류");
 
         var userId = context.GetHttpContext().User.Identity?.Name ?? "(unknown)";

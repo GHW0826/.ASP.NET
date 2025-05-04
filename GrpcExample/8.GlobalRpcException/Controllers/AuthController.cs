@@ -1,8 +1,8 @@
-﻿using HealthCheckEndpoint.Auth;
-using HealthCheckEndpoint.Models;
+﻿using GlobalRpcException.Auth;
+using GlobalRpcException.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace HealthCheckEndpoint.Controllers;
+namespace GlobalRpcException.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

@@ -1,7 +1,7 @@
-﻿using HealthCheckEndpoint.Models;
+﻿using GlobalRpcException.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace HealthCheckEndpoint.Context;
+namespace GlobalRpcException.Context;
 
 
 public class AppDbContext : DbContext

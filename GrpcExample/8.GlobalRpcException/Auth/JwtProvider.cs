@@ -1,10 +1,10 @@
-﻿using HealthCheckEndpoint.Models;
+﻿using GlobalRpcException.Models;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-namespace HealthCheckEndpoint.Auth;
+namespace GlobalRpcException.Auth;
 
 public class JwtProvider
 {

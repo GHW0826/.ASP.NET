@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
-using HealthCheckEndpoint;
+using GlobalRpcException;
 
-namespace HealthCheckEndpoint.Validators;
+namespace GlobalRpcException.Validators;
 
 public class UpdateUserRequestValidator : AbstractValidator<UpdateUserRequest>
 {

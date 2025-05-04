@@ -4,8 +4,8 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <AssemblyName>HealthCheckEndpoint</AssemblyName>
-    <RootNamespace>HealthCheckEndpoint</RootNamespace>
+    <AssemblyName>GlobalRpcException</AssemblyName>
+    <RootNamespace>GlobalRpcException</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

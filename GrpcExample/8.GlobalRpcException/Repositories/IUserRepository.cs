@@ -1,6 +1,6 @@
-﻿using HealthCheckEndpoint.Models;
+﻿using GlobalRpcException.Models;
 
-namespace HealthCheckEndpoint.Repositories;
+namespace GlobalRpcException.Repositories;
 
 public interface IUserRepository
 {

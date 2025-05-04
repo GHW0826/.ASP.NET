@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option csharp_namespace = "HealthCheckEndpoint";
+option csharp_namespace = "GlobalRpcException";
 
 package greet;
 

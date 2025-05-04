@@ -2,7 +2,7 @@ syntax = "proto3";
 
 import "google/protobuf/empty.proto";
 
-option csharp_namespace = "HealthCheckEndpoint";
+option csharp_namespace = "GlobalRpcException";
 
 package user;
 

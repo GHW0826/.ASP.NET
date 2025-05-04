@@ -3,12 +3,260 @@
   "WorkspaceRootPath": "D:\\git\\.ASP.NET\\GrpcExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A259AB2D-BE5D-41B7-889E-09CCD46A983A}|9.HealthCheckEndpoint\\9.HealthCheckEndpoint.csproj|d:\\git\\.asp.net\\grpcexample\\9.healthcheckendpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A259AB2D-BE5D-41B7-889E-09CCD46A983A}|9.HealthCheckEndpoint\\9.HealthCheckEndpoint.csproj|solutionrelative:9.healthcheckendpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0842E93C-EF48-4CC1-90C2-37811745C776}|18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0842E93C-EF48-4CC1-90C2-37811745C776}|18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj|solutionrelative:18.fileuploaddownload_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0842E93C-EF48-4CC1-90C2-37811745C776}|18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload_client\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0842E93C-EF48-4CC1-90C2-37811745C776}|18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj|solutionrelative:18.fileuploaddownload_client\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|solutionrelative:18.fileuploaddownload\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0842E93C-EF48-4CC1-90C2-37811745C776}|18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload_client\\18.fileuploaddownload_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0842E93C-EF48-4CC1-90C2-37811745C776}|18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj|solutionrelative:18.fileuploaddownload_client\\18.fileuploaddownload_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0842E93C-EF48-4CC1-90C2-37811745C776}|18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload_client\\18.fileuploaddownload_client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0842E93C-EF48-4CC1-90C2-37811745C776}|18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj|solutionrelative:18.fileuploaddownload_client\\18.fileuploaddownload_client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|solutionrelative:18.fileuploaddownload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|solutionrelative:18.fileuploaddownload\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|solutionrelative:18.fileuploaddownload\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|solutionrelative:18.fileuploaddownload\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload\\protos\\file.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|solutionrelative:18.fileuploaddownload\\protos\\file.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload\\18.fileuploaddownload.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|solutionrelative:18.fileuploaddownload\\18.fileuploaddownload.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|solutionrelative:18.fileuploaddownload\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload\\18.fileuploaddownload.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A475F905-5257-462C-BCED-A8AC1287DE90}|18.FileUploadDownload\\18.FileUploadDownload.csproj|solutionrelative:18.fileuploaddownload\\18.fileuploaddownload.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamingchat\\services\\bichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|solutionrelative:17.bistreamingchat\\services\\bichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamingchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|solutionrelative:17.bistreamingchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548A007D-B8E3-424D-999D-D8F765D6B8EB}|17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamchat_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548A007D-B8E3-424D-999D-D8F765D6B8EB}|17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj|solutionrelative:17.bistreamchat_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F14E600F-CE52-4C93-AF03-5F733A087ACB}|GrpcClient\\GrpcClient.csproj|d:\\git\\.asp.net\\grpcexample\\grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F14E600F-CE52-4C93-AF03-5F733A087ACB}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamingchat\\protos\\user.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|solutionrelative:17.bistreamingchat\\protos\\user.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamingchat\\protos\\chat.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|solutionrelative:17.bistreamingchat\\protos\\chat.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548A007D-B8E3-424D-999D-D8F765D6B8EB}|17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamchat_client\\17.bistreamchat_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{548A007D-B8E3-424D-999D-D8F765D6B8EB}|17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj|solutionrelative:17.bistreamchat_client\\17.bistreamchat_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548A007D-B8E3-424D-999D-D8F765D6B8EB}|17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamchat_client\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548A007D-B8E3-424D-999D-D8F765D6B8EB}|17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj|solutionrelative:17.bistreamchat_client\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{548A007D-B8E3-424D-999D-D8F765D6B8EB}|17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamchat_client\\17.bistreamchat_client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{548A007D-B8E3-424D-999D-D8F765D6B8EB}|17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj|solutionrelative:17.bistreamchat_client\\17.bistreamchat_client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamingchat\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|solutionrelative:17.bistreamingchat\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamingchat\\protos\\streaming.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|solutionrelative:17.bistreamingchat\\protos\\streaming.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamingchat\\17.bistreamingchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|solutionrelative:17.bistreamingchat\\17.bistreamingchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamingchat\\controllers\\usergatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|solutionrelative:17.bistreamingchat\\controllers\\usergatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamingchat\\17.bistreamingchat.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|solutionrelative:17.bistreamingchat\\17.bistreamingchat.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|d:\\git\\.asp.net\\grpcexample\\15.grpcstreaming\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|solutionrelative:15.grpcstreaming\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|d:\\git\\.asp.net\\grpcexample\\15.grpcstreaming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|solutionrelative:15.grpcstreaming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE575127-1280-494C-94CC-C6F2615F89A6}|16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj|d:\\git\\.asp.net\\grpcexample\\16.grpcpollingrrlb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE575127-1280-494C-94CC-C6F2615F89A6}|16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj|solutionrelative:16.grpcpollingrrlb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE575127-1280-494C-94CC-C6F2615F89A6}|16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj|d:\\git\\.asp.net\\grpcexample\\16.grpcpollingrrlb\\grpcchannelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE575127-1280-494C-94CC-C6F2615F89A6}|16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj|solutionrelative:16.grpcpollingrrlb\\grpcchannelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE575127-1280-494C-94CC-C6F2615F89A6}|16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj|d:\\git\\.asp.net\\grpcexample\\16.grpcpollingrrlb\\16.grpcpollingrrlb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE575127-1280-494C-94CC-C6F2615F89A6}|16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj|solutionrelative:16.grpcpollingrrlb\\16.grpcpollingrrlb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE575127-1280-494C-94CC-C6F2615F89A6}|16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj|d:\\git\\.asp.net\\grpcexample\\16.grpcpollingrrlb\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE575127-1280-494C-94CC-C6F2615F89A6}|16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj|solutionrelative:16.grpcpollingrrlb\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE575127-1280-494C-94CC-C6F2615F89A6}|16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj|d:\\git\\.asp.net\\grpcexample\\16.grpcpollingrrlb\\16.grpcpollingrrlb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CE575127-1280-494C-94CC-C6F2615F89A6}|16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj|solutionrelative:16.grpcpollingrrlb\\16.grpcpollingrrlb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|d:\\git\\.asp.net\\grpcexample\\15.grpcstreaming\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|solutionrelative:15.grpcstreaming\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F14E600F-CE52-4C93-AF03-5F733A087ACB}|GrpcClient\\GrpcClient.csproj|d:\\git\\.asp.net\\grpcexample\\grpcclient\\grpcclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F14E600F-CE52-4C93-AF03-5F733A087ACB}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\grpcclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|d:\\git\\.asp.net\\grpcexample\\15.grpcstreaming\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|solutionrelative:15.grpcstreaming\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|d:\\git\\.asp.net\\grpcexample\\15.grpcstreaming\\protos\\streaming.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|solutionrelative:15.grpcstreaming\\protos\\streaming.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|d:\\git\\.asp.net\\grpcexample\\15.grpcstreaming\\protos\\user.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|solutionrelative:15.grpcstreaming\\protos\\user.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|d:\\git\\.asp.net\\grpcexample\\15.grpcstreaming\\15.grpcstreaming.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|solutionrelative:15.grpcstreaming\\15.grpcstreaming.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|d:\\git\\.asp.net\\grpcexample\\15.grpcstreaming\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|solutionrelative:15.grpcstreaming\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|d:\\git\\.asp.net\\grpcexample\\15.grpcstreaming\\15.grpcstreaming.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{79318C36-CC8C-4AEC-BB05-705140DB9D34}|15.GrpcStreaming\\15.GrpcStreaming.csproj|solutionrelative:15.grpcstreaming\\15.grpcstreaming.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75335030-DC3A-496E-AF05-1E05D18F3977}|14.GrpcHealthcheck\\14.GrpcHealthcheck.csproj|d:\\git\\.asp.net\\grpcexample\\14.grpchealthcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75335030-DC3A-496E-AF05-1E05D18F3977}|14.GrpcHealthcheck\\14.GrpcHealthcheck.csproj|solutionrelative:14.grpchealthcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75335030-DC3A-496E-AF05-1E05D18F3977}|14.GrpcHealthcheck\\14.GrpcHealthcheck.csproj|d:\\git\\.asp.net\\grpcexample\\14.grpchealthcheck\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75335030-DC3A-496E-AF05-1E05D18F3977}|14.GrpcHealthcheck\\14.GrpcHealthcheck.csproj|solutionrelative:14.grpchealthcheck\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE9DC0F-1C82-4E0E-902D-6BFDBA9569A7}|13.GrpcClientRetryPolicy\\13.GrpcClientRetryPolicy.csproj|d:\\git\\.asp.net\\grpcexample\\13.grpcclientretrypolicy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE9DC0F-1C82-4E0E-902D-6BFDBA9569A7}|13.GrpcClientRetryPolicy\\13.GrpcClientRetryPolicy.csproj|solutionrelative:13.grpcclientretrypolicy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE9DC0F-1C82-4E0E-902D-6BFDBA9569A7}|13.GrpcClientRetryPolicy\\13.GrpcClientRetryPolicy.csproj|d:\\git\\.asp.net\\grpcexample\\13.grpcclientretrypolicy\\13.grpcclientretrypolicy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADE9DC0F-1C82-4E0E-902D-6BFDBA9569A7}|13.GrpcClientRetryPolicy\\13.GrpcClientRetryPolicy.csproj|solutionrelative:13.grpcclientretrypolicy\\13.grpcclientretrypolicy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|d:\\git\\.asp.net\\grpcexample\\12.grpcgateway\\controllers\\usergatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|solutionrelative:12.grpcgateway\\controllers\\usergatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|d:\\git\\.asp.net\\grpcexample\\12.grpcgateway\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|solutionrelative:12.grpcgateway\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|d:\\git\\.asp.net\\grpcexample\\12.grpcgateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|solutionrelative:12.grpcgateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|d:\\git\\.asp.net\\grpcexample\\12.grpcgateway\\12.grpcgateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|solutionrelative:12.grpcgateway\\12.grpcgateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|d:\\git\\.asp.net\\grpcexample\\12.grpcgateway\\protos\\user.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|solutionrelative:12.grpcgateway\\protos\\user.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|d:\\git\\.asp.net\\grpcexample\\12.grpcgateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|solutionrelative:12.grpcgateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|d:\\git\\.asp.net\\grpcexample\\12.grpcgateway\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|solutionrelative:12.grpcgateway\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|d:\\git\\.asp.net\\grpcexample\\12.grpcgateway\\12.grpcgateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E2A15E69-2017-4F98-985B-D1E1C7567840}|12.GrpcGateway\\12.GrpcGateway.csproj|solutionrelative:12.grpcgateway\\12.grpcgateway.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|d:\\git\\.asp.net\\grpcexample\\11.ratelimitings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|solutionrelative:11.ratelimitings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|d:\\git\\.asp.net\\grpcexample\\11.ratelimitings\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|solutionrelative:11.ratelimitings\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|d:\\git\\.asp.net\\grpcexample\\11.ratelimitings\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|solutionrelative:11.ratelimitings\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|d:\\git\\.asp.net\\grpcexample\\11.ratelimitings\\11.ratelimitings.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|solutionrelative:11.ratelimitings\\11.ratelimitings.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|d:\\git\\.asp.net\\grpcexample\\11.ratelimitings\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|solutionrelative:11.ratelimitings\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|d:\\git\\.asp.net\\grpcexample\\11.ratelimitings\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|solutionrelative:11.ratelimitings\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|d:\\git\\.asp.net\\grpcexample\\11.ratelimitings\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|solutionrelative:11.ratelimitings\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|d:\\git\\.asp.net\\grpcexample\\11.ratelimitings\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|solutionrelative:11.ratelimitings\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|d:\\git\\.asp.net\\grpcexample\\11.ratelimitings\\protos\\user.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|solutionrelative:11.ratelimitings\\protos\\user.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|d:\\git\\.asp.net\\grpcexample\\11.ratelimitings\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3D85FD-309D-49E0-A795-3ADB8DDB59F7}|11.RateLimitings\\11.RateLimitings.csproj|solutionrelative:11.ratelimitings\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +266,768 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\GrpcClient\\Program.cs",
-              "RelativeDocumentMoniker": "GrpcClient\\Program.cs",
-              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\GrpcClient\\Program.cs",
-              "RelativeToolTip": "GrpcClient\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB0AAAAIAAAAAAAAAA==",
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload_Client\\Model.cs",
+              "RelativeDocumentMoniker": "18.FileUploadDownload_Client\\Model.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload_Client\\Model.cs",
+              "RelativeToolTip": "18.FileUploadDownload_Client\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:29:00.613Z"
+              "WhenOpened": "2025-05-04T09:04:46.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "18.FileUploadDownload_Client.csproj",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj",
+              "RelativeDocumentMoniker": "18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj",
+              "RelativeToolTip": "18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T08:52:23.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "18.FileUploadDownload_Client",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj",
+              "RelativeDocumentMoniker": "18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj",
+              "RelativeToolTip": "18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T08:52:18.252Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\9.HealthCheckEndpoint\\Program.cs",
-              "RelativeDocumentMoniker": "9.HealthCheckEndpoint\\Program.cs",
-              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\9.HealthCheckEndpoint\\Program.cs",
-              "RelativeToolTip": "9.HealthCheckEndpoint\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAYwEIAAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload_Client\\Program.cs",
+              "RelativeDocumentMoniker": "18.FileUploadDownload_Client\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload_Client\\Program.cs",
+              "RelativeToolTip": "18.FileUploadDownload_Client\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAA4wFEAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T09:26:52.673Z",
+              "WhenOpened": "2025-05-04T08:52:00.211Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "18.FileUploadDownload\\Services\\FileService.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Services\\FileService.cs",
+              "RelativeToolTip": "18.FileUploadDownload\\Services\\FileService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:49:42.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "greet.proto",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "18.FileUploadDownload\\Protos\\greet.proto",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Protos\\greet.proto",
+              "RelativeToolTip": "18.FileUploadDownload\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-05-04T08:51:02.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "18.FileUploadDownload\\Services\\GreeterService.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Services\\GreeterService.cs",
+              "RelativeToolTip": "18.FileUploadDownload\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:50:57.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "18.FileUploadDownload\\Services\\ChatService.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Services\\ChatService.cs",
+              "RelativeToolTip": "18.FileUploadDownload\\Services\\ChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:50:16.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "file.proto",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Protos\\file.proto",
+              "RelativeDocumentMoniker": "18.FileUploadDownload\\Protos\\file.proto",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Protos\\file.proto",
+              "RelativeToolTip": "18.FileUploadDownload\\Protos\\file.proto",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-05-04T08:48:57.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Program.cs",
+              "RelativeDocumentMoniker": "18.FileUploadDownload\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Program.cs",
+              "RelativeToolTip": "18.FileUploadDownload\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:48:39.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "18.FileUploadDownload.csproj",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\18.FileUploadDownload.csproj",
+              "RelativeDocumentMoniker": "18.FileUploadDownload\\18.FileUploadDownload.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\18.FileUploadDownload.csproj",
+              "RelativeToolTip": "18.FileUploadDownload\\18.FileUploadDownload.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T08:49:29.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "18.FileUploadDownload\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "18.FileUploadDownload\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:48:09.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "18.FileUploadDownload",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\18.FileUploadDownload.csproj",
+              "RelativeDocumentMoniker": "18.FileUploadDownload\\18.FileUploadDownload.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\18.FileUploadDownload.csproj",
+              "RelativeToolTip": "18.FileUploadDownload\\18.FileUploadDownload.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T08:47:58.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "user.proto",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Protos\\user.proto",
+              "RelativeDocumentMoniker": "17.BIStreamingChat\\Protos\\user.proto",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Protos\\user.proto",
+              "RelativeToolTip": "17.BIStreamingChat\\Protos\\user.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-05-04T08:40:35.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamChat_Client\\Program.cs",
+              "RelativeDocumentMoniker": "17.BIStreamChat_Client\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamChat_Client\\Program.cs",
+              "RelativeToolTip": "17.BIStreamChat_Client\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:37:36.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "chat.proto",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Protos\\chat.proto",
+              "RelativeDocumentMoniker": "17.BIStreamingChat\\Protos\\chat.proto",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Protos\\chat.proto",
+              "RelativeToolTip": "17.BIStreamingChat\\Protos\\chat.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-05-04T08:33:30.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\GrpcClient\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcClient\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\GrpcClient\\Program.cs",
+              "RelativeToolTip": "GrpcClient\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:36:58.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Program.cs",
+              "RelativeDocumentMoniker": "17.BIStreamingChat\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Program.cs",
+              "RelativeToolTip": "17.BIStreamingChat\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwIkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:33:12.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BIChatService.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Services\\BIChatService.cs",
+              "RelativeDocumentMoniker": "17.BIStreamingChat\\Services\\BIChatService.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Services\\BIChatService.cs",
+              "RelativeToolTip": "17.BIStreamingChat\\Services\\BIChatService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:34:26.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "17.BIStreamChat_Client.csproj",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj",
+              "RelativeDocumentMoniker": "17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj",
+              "RelativeToolTip": "17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T08:37:50.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamChat_Client\\Model.cs",
+              "RelativeDocumentMoniker": "17.BIStreamChat_Client\\Model.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamChat_Client\\Model.cs",
+              "RelativeToolTip": "17.BIStreamChat_Client\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:37:34.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "17.BIStreamChat_Client",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj",
+              "RelativeDocumentMoniker": "17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj",
+              "RelativeToolTip": "17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T08:37:20.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "streaming.proto",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Protos\\streaming.proto",
+              "RelativeDocumentMoniker": "17.BIStreamingChat\\Protos\\streaming.proto",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Protos\\streaming.proto",
+              "RelativeToolTip": "17.BIStreamingChat\\Protos\\streaming.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-05-04T08:34:02.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "17.BIStreamingChat\\Services\\ChatService.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Services\\ChatService.cs",
+              "RelativeToolTip": "17.BIStreamingChat\\Services\\ChatService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:33:54.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "17.BIStreamingChat.csproj",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\17.BIStreamingChat.csproj",
+              "RelativeDocumentMoniker": "17.BIStreamingChat\\17.BIStreamingChat.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\17.BIStreamingChat.csproj",
+              "RelativeToolTip": "17.BIStreamingChat\\17.BIStreamingChat.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T08:33:47.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserGatewayController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Controllers\\UserGatewayController.cs",
+              "RelativeDocumentMoniker": "17.BIStreamingChat\\Controllers\\UserGatewayController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Controllers\\UserGatewayController.cs",
+              "RelativeToolTip": "17.BIStreamingChat\\Controllers\\UserGatewayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:32:39.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "17.BIStreamingChat",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\17.BIStreamingChat.csproj",
+              "RelativeDocumentMoniker": "17.BIStreamingChat\\17.BIStreamingChat.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\17.BIStreamingChat.csproj",
+              "RelativeToolTip": "17.BIStreamingChat\\17.BIStreamingChat.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T08:32:23.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GrpcChannelManager.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\GrpcChannelManager.cs",
+              "RelativeDocumentMoniker": "16.GrpcPollingRRLB\\GrpcChannelManager.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\GrpcChannelManager.cs",
+              "RelativeToolTip": "16.GrpcPollingRRLB\\GrpcChannelManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:22:53.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\Program.cs",
+              "RelativeDocumentMoniker": "16.GrpcPollingRRLB\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\Program.cs",
+              "RelativeToolTip": "16.GrpcPollingRRLB\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:21:34.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Program.cs",
+              "RelativeDocumentMoniker": "15.GrpcStreaming\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Program.cs",
+              "RelativeToolTip": "15.GrpcStreaming\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwFgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:56:00.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "15.GrpcStreaming\\Services\\ChatService.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Services\\ChatService.cs",
+              "RelativeToolTip": "15.GrpcStreaming\\Services\\ChatService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:57:28.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "16.GrpcPollingRRLB.csproj",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj",
+              "RelativeDocumentMoniker": "16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj",
+              "RelativeToolTip": "16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T08:24:36.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\Model.cs",
+              "RelativeDocumentMoniker": "16.GrpcPollingRRLB\\Model.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\Model.cs",
+              "RelativeToolTip": "16.GrpcPollingRRLB\\Model.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:21:51.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "16.GrpcPollingRRLB",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj",
+              "RelativeDocumentMoniker": "16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj",
+              "RelativeToolTip": "16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T08:21:36.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "15.GrpcStreaming\\Services\\GreeterService.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Services\\GreeterService.cs",
+              "RelativeToolTip": "15.GrpcStreaming\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:01:52.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GrpcClient.csproj",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\GrpcClient\\GrpcClient.csproj",
+              "RelativeDocumentMoniker": "GrpcClient\\GrpcClient.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\GrpcClient\\GrpcClient.csproj",
+              "RelativeToolTip": "GrpcClient\\GrpcClient.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T07:58:38.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "15.GrpcStreaming\\Services\\UserService.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Services\\UserService.cs",
+              "RelativeToolTip": "15.GrpcStreaming\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:57:39.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "streaming.proto",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Protos\\streaming.proto",
+              "RelativeDocumentMoniker": "15.GrpcStreaming\\Protos\\streaming.proto",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Protos\\streaming.proto",
+              "RelativeToolTip": "15.GrpcStreaming\\Protos\\streaming.proto",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-05-04T07:56:42.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "user.proto",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Protos\\user.proto",
+              "RelativeDocumentMoniker": "15.GrpcStreaming\\Protos\\user.proto",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Protos\\user.proto",
+              "RelativeToolTip": "15.GrpcStreaming\\Protos\\user.proto",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-05-04T07:57:01.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "15.GrpcStreaming\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "15.GrpcStreaming\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:55:40.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "15.GrpcStreaming",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\15.GrpcStreaming.csproj",
+              "RelativeDocumentMoniker": "15.GrpcStreaming\\15.GrpcStreaming.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\15.GrpcStreaming.csproj",
+              "RelativeToolTip": "15.GrpcStreaming\\15.GrpcStreaming.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T07:55:31.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "15.GrpcStreaming.csproj",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\15.GrpcStreaming.csproj",
+              "RelativeDocumentMoniker": "15.GrpcStreaming\\15.GrpcStreaming.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\15.GrpcStreaming.csproj",
+              "RelativeToolTip": "15.GrpcStreaming\\15.GrpcStreaming.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T07:55:20.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\14.GrpcHealthcheck\\Program.cs",
+              "RelativeDocumentMoniker": "14.GrpcHealthcheck\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\14.GrpcHealthcheck\\Program.cs",
+              "RelativeToolTip": "14.GrpcHealthcheck\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAYwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:42:58.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\14.GrpcHealthcheck\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "14.GrpcHealthcheck\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\14.GrpcHealthcheck\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "14.GrpcHealthcheck\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:20:46.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\13.GrpcClientRetryPolicy\\Program.cs",
+              "RelativeDocumentMoniker": "13.GrpcClientRetryPolicy\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\13.GrpcClientRetryPolicy\\Program.cs",
+              "RelativeToolTip": "13.GrpcClientRetryPolicy\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:16:35.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "13.GrpcClientRetryPolicy.csproj",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\13.GrpcClientRetryPolicy\\13.GrpcClientRetryPolicy.csproj",
+              "RelativeDocumentMoniker": "13.GrpcClientRetryPolicy\\13.GrpcClientRetryPolicy.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\13.GrpcClientRetryPolicy\\13.GrpcClientRetryPolicy.csproj",
+              "RelativeToolTip": "13.GrpcClientRetryPolicy\\13.GrpcClientRetryPolicy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T07:16:21.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserGatewayController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Controllers\\UserGatewayController.cs",
+              "RelativeDocumentMoniker": "12.GrpcGateway\\Controllers\\UserGatewayController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Controllers\\UserGatewayController.cs",
+              "RelativeToolTip": "12.GrpcGateway\\Controllers\\UserGatewayController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:52:16.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Program.cs",
+              "RelativeDocumentMoniker": "12.GrpcGateway\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Program.cs",
+              "RelativeToolTip": "12.GrpcGateway\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwFIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:50:32.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "12.GrpcGateway.csproj",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\12.GrpcGateway.csproj",
+              "RelativeDocumentMoniker": "12.GrpcGateway\\12.GrpcGateway.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\12.GrpcGateway.csproj",
+              "RelativeToolTip": "12.GrpcGateway\\12.GrpcGateway.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T06:55:01.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "user.proto",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Protos\\user.proto",
+              "RelativeDocumentMoniker": "12.GrpcGateway\\Protos\\user.proto",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Protos\\user.proto",
+              "RelativeToolTip": "12.GrpcGateway\\Protos\\user.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-05-04T06:56:08.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "12.GrpcGateway\\Services\\UserService.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Services\\UserService.cs",
+              "RelativeToolTip": "12.GrpcGateway\\Services\\UserService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwEEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:56:26.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "12.GrpcGateway\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "12.GrpcGateway\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:52:17.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "12.GrpcGateway\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "12.GrpcGateway\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:50:16.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "12.GrpcGateway",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\12.GrpcGateway.csproj",
+              "RelativeDocumentMoniker": "12.GrpcGateway\\12.GrpcGateway.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\12.GrpcGateway.csproj",
+              "RelativeToolTip": "12.GrpcGateway\\12.GrpcGateway.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T06:49:58.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "11.RateLimitings\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Properties\\launchSettings.json",
+              "RelativeToolTip": "11.RateLimitings\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T06:39:51.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\appsettings.json",
+              "RelativeDocumentMoniker": "11.RateLimitings\\appsettings.json",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\appsettings.json",
+              "RelativeToolTip": "11.RateLimitings\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T06:39:47.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Models\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "11.RateLimitings\\Models\\Dto\\UserDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Models\\Dto\\UserDto.cs",
+              "RelativeToolTip": "11.RateLimitings\\Models\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:34:43.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "11.RateLimitings\\Models\\AuthUser.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Models\\AuthUser.cs",
+              "RelativeToolTip": "11.RateLimitings\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:34:42.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Program.cs",
+              "RelativeDocumentMoniker": "11.RateLimitings\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Program.cs",
+              "RelativeToolTip": "11.RateLimitings\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwFEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:32:20.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "greet.proto",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "11.RateLimitings\\Protos\\greet.proto",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Protos\\greet.proto",
+              "RelativeToolTip": "11.RateLimitings\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-05-04T06:34:49.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "11.RateLimitings\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "11.RateLimitings\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:34:36.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "11.RateLimitings",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\11.RateLimitings.csproj",
+              "RelativeDocumentMoniker": "11.RateLimitings\\11.RateLimitings.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\11.RateLimitings.csproj",
+              "RelativeToolTip": "11.RateLimitings\\11.RateLimitings.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T06:31:49.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "user.proto",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Protos\\user.proto",
+              "RelativeDocumentMoniker": "11.RateLimitings\\Protos\\user.proto",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Protos\\user.proto",
+              "RelativeToolTip": "11.RateLimitings\\Protos\\user.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-05-04T06:34:49.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "11.RateLimitings\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "11.RateLimitings\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:32:09.023Z"
             }
           ]
         }

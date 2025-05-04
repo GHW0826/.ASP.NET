@@ -1,8 +1,8 @@
-﻿using HealthCheckEndpoint.Context;
-using HealthCheckEndpoint.Models;
-using HealthCheckEndpoint.Repositories;
+﻿using GlobalRpcException.Context;
+using GlobalRpcException.Models;
+using GlobalRpcException.Repositories;
 
-namespace HealthCheckEndpoint.Repository;
+namespace GlobalRpcException.Repository;
 
 public class UserRepository : IUserRepository
 {

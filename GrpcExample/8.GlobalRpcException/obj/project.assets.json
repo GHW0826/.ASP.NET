@@ -3887,7 +3887,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "D:\\git\\.ASP.NET\\GrpcExample\\8.GlobalRpcException\\8.GlobalRpcException.csproj",
-      "projectName": "HealthCheckEndpoint",
+      "projectName": "GlobalRpcException",
       "projectPath": "D:\\git\\.ASP.NET\\GrpcExample\\8.GlobalRpcException\\8.GlobalRpcException.csproj",
       "packagesPath": "C:\\Users\\tjdtn\\.nuget\\packages\\",
       "outputPath": "D:\\git\\.ASP.NET\\GrpcExample\\8.GlobalRpcException\\obj\\",
