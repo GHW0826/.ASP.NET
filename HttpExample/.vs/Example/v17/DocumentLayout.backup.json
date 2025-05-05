@@ -1,0 +1,593 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\.ASP.NET\\Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C77CE6B-9786-431F-800B-DDF3CD6BF385}|20.Dockerfiles\\20.Dockerfiles.csproj|d:\\git\\.asp.net\\example\\20.dockerfiles\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C77CE6B-9786-431F-800B-DDF3CD6BF385}|20.Dockerfiles\\20.Dockerfiles.csproj|solutionrelative:20.dockerfiles\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C77CE6B-9786-431F-800B-DDF3CD6BF385}|20.Dockerfiles\\20.Dockerfiles.csproj|d:\\git\\.asp.net\\example\\20.dockerfiles\\20.dockerfiles.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5C77CE6B-9786-431F-800B-DDF3CD6BF385}|20.Dockerfiles\\20.Dockerfiles.csproj|solutionrelative:20.dockerfiles\\20.dockerfiles.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|d:\\git\\.asp.net\\example\\19.threetierlayer\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|solutionrelative:19.threetierlayer\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|d:\\git\\.asp.net\\example\\19.threetierlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|solutionrelative:19.threetierlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|d:\\git\\.asp.net\\example\\19.threetierlayer\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|solutionrelative:19.threetierlayer\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|d:\\git\\.asp.net\\example\\19.threetierlayer\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|solutionrelative:19.threetierlayer\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|d:\\git\\.asp.net\\example\\19.threetierlayer\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|solutionrelative:19.threetierlayer\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|d:\\git\\.asp.net\\example\\19.threetierlayer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|solutionrelative:19.threetierlayer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|d:\\git\\.asp.net\\example\\19.threetierlayer\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|solutionrelative:19.threetierlayer\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|d:\\git\\.asp.net\\example\\19.threetierlayer\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|solutionrelative:19.threetierlayer\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|d:\\git\\.asp.net\\example\\19.threetierlayer\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|solutionrelative:19.threetierlayer\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|d:\\git\\.asp.net\\example\\19.threetierlayer\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|solutionrelative:19.threetierlayer\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|d:\\git\\.asp.net\\example\\19.threetierlayer\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|solutionrelative:19.threetierlayer\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|d:\\git\\.asp.net\\example\\19.threetierlayer\\19.threetierlayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{153FF988-C6FB-43D0-8F10-603931FC9B46}|19.ThreeTierLayer\\19.ThreeTierLayer.csproj|solutionrelative:19.threetierlayer\\19.threetierlayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8B66DD-A43C-4891-882D-40DA69E57336}|18.HttpHealthcheck\\18.HttpHealthcheck.csproj|d:\\git\\.asp.net\\example\\18.httphealthcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8B66DD-A43C-4891-882D-40DA69E57336}|18.HttpHealthcheck\\18.HttpHealthcheck.csproj|solutionrelative:18.httphealthcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8B66DD-A43C-4891-882D-40DA69E57336}|18.HttpHealthcheck\\18.HttpHealthcheck.csproj|d:\\git\\.asp.net\\example\\18.httphealthcheck\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8B66DD-A43C-4891-882D-40DA69E57336}|18.HttpHealthcheck\\18.HttpHealthcheck.csproj|solutionrelative:18.httphealthcheck\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8B66DD-A43C-4891-882D-40DA69E57336}|18.HttpHealthcheck\\18.HttpHealthcheck.csproj|d:\\git\\.asp.net\\example\\18.httphealthcheck\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8B66DD-A43C-4891-882D-40DA69E57336}|18.HttpHealthcheck\\18.HttpHealthcheck.csproj|solutionrelative:18.httphealthcheck\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8B66DD-A43C-4891-882D-40DA69E57336}|18.HttpHealthcheck\\18.HttpHealthcheck.csproj|d:\\git\\.asp.net\\example\\18.httphealthcheck\\migrations\\20250427081907_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8B66DD-A43C-4891-882D-40DA69E57336}|18.HttpHealthcheck\\18.HttpHealthcheck.csproj|solutionrelative:18.httphealthcheck\\migrations\\20250427081907_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8B66DD-A43C-4891-882D-40DA69E57336}|18.HttpHealthcheck\\18.HttpHealthcheck.csproj|d:\\git\\.asp.net\\example\\18.httphealthcheck\\18.httphealthcheck.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8A8B66DD-A43C-4891-882D-40DA69E57336}|18.HttpHealthcheck\\18.HttpHealthcheck.csproj|solutionrelative:18.httphealthcheck\\18.httphealthcheck.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90E1840-FC93-4858-A26A-445584542359}|17.CORSPolicys\\17.CORSPolicys.csproj|d:\\git\\.asp.net\\example\\17.corspolicys\\17.corspolicys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E90E1840-FC93-4858-A26A-445584542359}|17.CORSPolicys\\17.CORSPolicys.csproj|solutionrelative:17.corspolicys\\17.corspolicys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90E1840-FC93-4858-A26A-445584542359}|17.CORSPolicys\\17.CORSPolicys.csproj|d:\\git\\.asp.net\\example\\17.corspolicys\\17.corspolicys.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E90E1840-FC93-4858-A26A-445584542359}|17.CORSPolicys\\17.CORSPolicys.csproj|solutionrelative:17.corspolicys\\17.corspolicys.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90E1840-FC93-4858-A26A-445584542359}|17.CORSPolicys\\17.CORSPolicys.csproj|d:\\git\\.asp.net\\example\\17.corspolicys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90E1840-FC93-4858-A26A-445584542359}|17.CORSPolicys\\17.CORSPolicys.csproj|solutionrelative:17.corspolicys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E90E1840-FC93-4858-A26A-445584542359}|17.CORSPolicys\\17.CORSPolicys.csproj|d:\\git\\.asp.net\\example\\17.corspolicys\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90E1840-FC93-4858-A26A-445584542359}|17.CORSPolicys\\17.CORSPolicys.csproj|solutionrelative:17.corspolicys\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B58F007-517B-464F-8180-A3971E3E0BDE}|16.ResponseFomatSet\\16.ResponseFomatSet.csproj|d:\\git\\.asp.net\\example\\16.responsefomatset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B58F007-517B-464F-8180-A3971E3E0BDE}|16.ResponseFomatSet\\16.ResponseFomatSet.csproj|solutionrelative:16.responsefomatset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B58F007-517B-464F-8180-A3971E3E0BDE}|16.ResponseFomatSet\\16.ResponseFomatSet.csproj|d:\\git\\.asp.net\\example\\16.responsefomatset\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B58F007-517B-464F-8180-A3971E3E0BDE}|16.ResponseFomatSet\\16.ResponseFomatSet.csproj|solutionrelative:16.responsefomatset\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B58F007-517B-464F-8180-A3971E3E0BDE}|16.ResponseFomatSet\\16.ResponseFomatSet.csproj|d:\\git\\.asp.net\\example\\16.responsefomatset\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B58F007-517B-464F-8180-A3971E3E0BDE}|16.ResponseFomatSet\\16.ResponseFomatSet.csproj|solutionrelative:16.responsefomatset\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B58F007-517B-464F-8180-A3971E3E0BDE}|16.ResponseFomatSet\\16.ResponseFomatSet.csproj|d:\\git\\.asp.net\\example\\16.responsefomatset\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B58F007-517B-464F-8180-A3971E3E0BDE}|16.ResponseFomatSet\\16.ResponseFomatSet.csproj|solutionrelative:16.responsefomatset\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B58F007-517B-464F-8180-A3971E3E0BDE}|16.ResponseFomatSet\\16.ResponseFomatSet.csproj|d:\\git\\.asp.net\\example\\16.responsefomatset\\16.responsefomatset.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2B58F007-517B-464F-8180-A3971E3E0BDE}|16.ResponseFomatSet\\16.ResponseFomatSet.csproj|solutionrelative:16.responsefomatset\\16.responsefomatset.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|d:\\git\\.asp.net\\example\\15.signupwithdrawal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|solutionrelative:15.signupwithdrawal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|d:\\git\\.asp.net\\example\\15.signupwithdrawal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|solutionrelative:15.signupwithdrawal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|d:\\git\\.asp.net\\example\\15.signupwithdrawal\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|solutionrelative:15.signupwithdrawal\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|d:\\git\\.asp.net\\example\\15.signupwithdrawal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|solutionrelative:15.signupwithdrawal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|d:\\git\\.asp.net\\example\\15.signupwithdrawal\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|solutionrelative:15.signupwithdrawal\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|d:\\git\\.asp.net\\example\\15.signupwithdrawal\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|solutionrelative:15.signupwithdrawal\\models\\dtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|d:\\git\\.asp.net\\example\\15.signupwithdrawal\\15.signupwithdrawal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{16F0C936-6C21-40CC-9353-433497DBFE2E}|15.SignupWithdrawal\\15.SignupWithdrawal.csproj|solutionrelative:15.signupwithdrawal\\15.signupwithdrawal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD17C4F7-33FC-4292-B4E3-3264EF3A8B9C}|14.PasswordBcrypt\\14.PasswordBcrypt.csproj|d:\\git\\.asp.net\\example\\14.passwordbcrypt\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD17C4F7-33FC-4292-B4E3-3264EF3A8B9C}|14.PasswordBcrypt\\14.PasswordBcrypt.csproj|solutionrelative:14.passwordbcrypt\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationFilter.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\20.Dockerfiles\\Filters\\ValidationFilter.cs",
+              "RelativeDocumentMoniker": "20.Dockerfiles\\Filters\\ValidationFilter.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\20.Dockerfiles\\Filters\\ValidationFilter.cs",
+              "RelativeToolTip": "20.Dockerfiles\\Filters\\ValidationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:53:17.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20.Dockerfiles",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\20.Dockerfiles\\20.Dockerfiles.csproj",
+              "RelativeDocumentMoniker": "20.Dockerfiles\\20.Dockerfiles.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\20.Dockerfiles\\20.Dockerfiles.csproj",
+              "RelativeToolTip": "20.Dockerfiles\\20.Dockerfiles.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T09:52:59.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Models\\Dtos\\CreateTodoDto.cs",
+              "RelativeDocumentMoniker": "19.ThreeTierLayer\\Models\\Dtos\\CreateTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Models\\Dtos\\CreateTodoDto.cs",
+              "RelativeToolTip": "19.ThreeTierLayer\\Models\\Dtos\\CreateTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:48:31.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationFilter.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Filters\\ValidationFilter.cs",
+              "RelativeDocumentMoniker": "19.ThreeTierLayer\\Filters\\ValidationFilter.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Filters\\ValidationFilter.cs",
+              "RelativeToolTip": "19.ThreeTierLayer\\Filters\\ValidationFilter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:47:54.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "19.ThreeTierLayer\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "19.ThreeTierLayer\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:45:55.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "19.ThreeTierLayer\\Models\\ApiResponse.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "19.ThreeTierLayer\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:45:40.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "19.ThreeTierLayer\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "19.ThreeTierLayer\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:43:10.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Program.cs",
+              "RelativeDocumentMoniker": "19.ThreeTierLayer\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Program.cs",
+              "RelativeToolTip": "19.ThreeTierLayer\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:39:34.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "19.ThreeTierLayer\\Services\\TodoService.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Services\\TodoService.cs",
+              "RelativeToolTip": "19.ThreeTierLayer\\Services\\TodoService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:42:43.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Services\\ITodoService.cs",
+              "RelativeDocumentMoniker": "19.ThreeTierLayer\\Services\\ITodoService.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Services\\ITodoService.cs",
+              "RelativeToolTip": "19.ThreeTierLayer\\Services\\ITodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:42:21.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "19.ThreeTierLayer\\Repositories\\TodoRepository.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Repositories\\TodoRepository.cs",
+              "RelativeToolTip": "19.ThreeTierLayer\\Repositories\\TodoRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:41:30.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Repositories\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "19.ThreeTierLayer\\Repositories\\ITodoRepository.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Repositories\\ITodoRepository.cs",
+              "RelativeToolTip": "19.ThreeTierLayer\\Repositories\\ITodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:40:53.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Helpers\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "19.ThreeTierLayer\\Helpers\\PasswordHasher.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\Helpers\\PasswordHasher.cs",
+              "RelativeToolTip": "19.ThreeTierLayer\\Helpers\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:39:20.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "19.ThreeTierLayer",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\19.ThreeTierLayer.csproj",
+              "RelativeDocumentMoniker": "19.ThreeTierLayer\\19.ThreeTierLayer.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\19.ThreeTierLayer\\19.ThreeTierLayer.csproj",
+              "RelativeToolTip": "19.ThreeTierLayer\\19.ThreeTierLayer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T09:38:59.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\18.HttpHealthcheck\\Program.cs",
+              "RelativeDocumentMoniker": "18.HttpHealthcheck\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\18.HttpHealthcheck\\Program.cs",
+              "RelativeToolTip": "18.HttpHealthcheck\\Program.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAswLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:21:59.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\18.HttpHealthcheck\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "18.HttpHealthcheck\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\18.HttpHealthcheck\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "18.HttpHealthcheck\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:21:51.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\18.HttpHealthcheck\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "18.HttpHealthcheck\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\18.HttpHealthcheck\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "18.HttpHealthcheck\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:21:42.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250427081907_InitialCreate.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\18.HttpHealthcheck\\Migrations\\20250427081907_InitialCreate.cs",
+              "RelativeDocumentMoniker": "18.HttpHealthcheck\\Migrations\\20250427081907_InitialCreate.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\18.HttpHealthcheck\\Migrations\\20250427081907_InitialCreate.cs",
+              "RelativeToolTip": "18.HttpHealthcheck\\Migrations\\20250427081907_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:21:39.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "17.CORSPolicys.csproj",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\17.CORSPolicys\\17.CORSPolicys.csproj",
+              "RelativeDocumentMoniker": "17.CORSPolicys\\17.CORSPolicys.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\17.CORSPolicys\\17.CORSPolicys.csproj",
+              "RelativeToolTip": "17.CORSPolicys\\17.CORSPolicys.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T09:21:30.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "18.HttpHealthcheck",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\18.HttpHealthcheck\\18.HttpHealthcheck.csproj",
+              "RelativeDocumentMoniker": "18.HttpHealthcheck\\18.HttpHealthcheck.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\18.HttpHealthcheck\\18.HttpHealthcheck.csproj",
+              "RelativeToolTip": "18.HttpHealthcheck\\18.HttpHealthcheck.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T09:21:13.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\17.CORSPolicys\\Program.cs",
+              "RelativeDocumentMoniker": "17.CORSPolicys\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\17.CORSPolicys\\Program.cs",
+              "RelativeToolTip": "17.CORSPolicys\\Program.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAQwPsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:02:31.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\17.CORSPolicys\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "17.CORSPolicys\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\17.CORSPolicys\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "17.CORSPolicys\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:02:07.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "17.CORSPolicys",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\17.CORSPolicys\\17.CORSPolicys.csproj",
+              "RelativeDocumentMoniker": "17.CORSPolicys\\17.CORSPolicys.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\17.CORSPolicys\\17.CORSPolicys.csproj",
+              "RelativeToolTip": "17.CORSPolicys\\17.CORSPolicys.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T09:01:54.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\16.ResponseFomatSet\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "16.ResponseFomatSet\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\16.ResponseFomatSet\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "16.ResponseFomatSet\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAiwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:55:29.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\16.ResponseFomatSet\\Models\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "16.ResponseFomatSet\\Models\\ErrorResponse.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\16.ResponseFomatSet\\Models\\ErrorResponse.cs",
+              "RelativeToolTip": "16.ResponseFomatSet\\Models\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:55:12.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\16.ResponseFomatSet\\Program.cs",
+              "RelativeDocumentMoniker": "16.ResponseFomatSet\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\16.ResponseFomatSet\\Program.cs",
+              "RelativeToolTip": "16.ResponseFomatSet\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:54:40.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\16.ResponseFomatSet\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "16.ResponseFomatSet\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\16.ResponseFomatSet\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "16.ResponseFomatSet\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:54:30.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "16.ResponseFomatSet",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\16.ResponseFomatSet\\16.ResponseFomatSet.csproj",
+              "RelativeDocumentMoniker": "16.ResponseFomatSet\\16.ResponseFomatSet.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\16.ResponseFomatSet\\16.ResponseFomatSet.csproj",
+              "RelativeToolTip": "16.ResponseFomatSet\\16.ResponseFomatSet.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T08:54:17.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\Program.cs",
+              "RelativeDocumentMoniker": "15.SignupWithdrawal\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\Program.cs",
+              "RelativeToolTip": "15.SignupWithdrawal\\Program.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAADwv6EAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:52:14.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "15.SignupWithdrawal\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "15.SignupWithdrawal\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwD4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:51:02.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "15.SignupWithdrawal\\Models\\User.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\Models\\User.cs",
+              "RelativeToolTip": "15.SignupWithdrawal\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:50:51.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "15.SignupWithdrawal\\Models\\RegisterRequest.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "15.SignupWithdrawal\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:50:42.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateTodoDto.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\Models\\Dtos\\CreateTodoDto.cs",
+              "RelativeDocumentMoniker": "15.SignupWithdrawal\\Models\\Dtos\\CreateTodoDto.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\Models\\Dtos\\CreateTodoDto.cs",
+              "RelativeToolTip": "15.SignupWithdrawal\\Models\\Dtos\\CreateTodoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:50:29.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "15.SignupWithdrawal\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "15.SignupWithdrawal\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:50:09.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "15.SignupWithdrawal",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\15.SignupWithdrawal.csproj",
+              "RelativeDocumentMoniker": "15.SignupWithdrawal\\15.SignupWithdrawal.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\15.SignupWithdrawal\\15.SignupWithdrawal.csproj",
+              "RelativeToolTip": "15.SignupWithdrawal\\15.SignupWithdrawal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T08:49:54.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\Example\\14.PasswordBcrypt\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "14.PasswordBcrypt\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\Example\\14.PasswordBcrypt\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "14.PasswordBcrypt\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvyAAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:47:19.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
