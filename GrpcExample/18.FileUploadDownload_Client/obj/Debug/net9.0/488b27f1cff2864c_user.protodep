@@ -1,0 +1,3 @@
+obj\Debug\net9.0/User.cs \
+obj\Debug\net9.0/UserGrpc.cs: C:/Users/tjdtn/.nuget/packages/grpc.tools/2.71.0/build/native/include/google/protobuf/empty.proto\
+ ../18.FileUploadDownload/Protos/user.proto

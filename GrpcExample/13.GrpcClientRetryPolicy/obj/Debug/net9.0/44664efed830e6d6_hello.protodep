@@ -1,0 +1,2 @@
+obj\Debug\net9.0/Hello.cs \
+obj\Debug\net9.0/HelloGrpc.cs: ../1.GrpcInit/Protos/hello.proto

@@ -49,7 +49,9 @@ var headers = new Metadata
 var channel = GrpcChannel.ForAddress(address);
 var client = new UserService.UserServiceClient(channel);
 
-var adminRes = await client.AdminOnlyAsync(new Empty(), headers);
+var callOptions = new CallOptions()
+.WithWriteOptions(new WriteOptions(WriteFlags.UseCompression));
+var adminRes = await client.AdminOnlyAsync(new Empty(), headers, callOptions);
 Console.WriteLine(adminRes.Message);
 
 

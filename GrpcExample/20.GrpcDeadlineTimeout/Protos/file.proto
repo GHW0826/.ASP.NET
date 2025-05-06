@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcDeadlineTimeout";
+
+package file;
+
+message FileChunk {
+  string fileName = 1;
+  bytes data = 2;
+  int32 index = 3;
+}
+
+message UploadReply {
+  string message = 1;
+  int32 totalChunks = 2;
+}
+
+message FileRequest {
+  string fileName = 1;
+}
+
+service FileService {
+  rpc Upload(stream FileChunk) returns (UploadReply);
+  rpc Download(FileRequest) returns (stream FileChunk);
+}

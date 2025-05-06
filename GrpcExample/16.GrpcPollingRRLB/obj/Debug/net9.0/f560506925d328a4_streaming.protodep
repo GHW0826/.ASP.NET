@@ -1,0 +1,2 @@
+obj\Debug\net9.0/Streaming.cs \
+obj\Debug\net9.0/StreamingGrpc.cs: ../15.GrpcStreaming/Protos/streaming.proto

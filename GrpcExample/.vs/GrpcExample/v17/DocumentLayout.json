@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "D:\\git\\.ASP.NET\\GrpcExample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F14E600F-CE52-4C93-AF03-5F733A087ACB}|GrpcClient\\GrpcClient.csproj|d:\\git\\.asp.net\\grpcexample\\grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F14E600F-CE52-4C93-AF03-5F733A087ACB}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C0C7F0-3C8B-4E16-B2B6-7BD73CFDF293}|19.GrpcCompression_Client\\19.GrpcCompression_Client.csproj|d:\\git\\.asp.net\\grpcexample\\19.grpccompression_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C0C7F0-3C8B-4E16-B2B6-7BD73CFDF293}|19.GrpcCompression_Client\\19.GrpcCompression_Client.csproj|solutionrelative:19.grpccompression_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20501699-8987-4723-A39C-FF8C88F54C59}|20.GrpcDeadlineTimeout_Client\\20.GrpcDeadlineTimeout_Client.csproj|d:\\git\\.asp.net\\grpcexample\\20.grpcdeadlinetimeout_client\\20.grpcdeadlinetimeout_client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{20501699-8987-4723-A39C-FF8C88F54C59}|20.GrpcDeadlineTimeout_Client\\20.GrpcDeadlineTimeout_Client.csproj|solutionrelative:20.grpcdeadlinetimeout_client\\20.grpcdeadlinetimeout_client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09877FCF-86A0-4CF2-9644-81D0B84C1056}|20.GrpcDeadlineTimeout\\20.GrpcDeadlineTimeout.csproj|d:\\git\\.asp.net\\grpcexample\\20.grpcdeadlinetimeout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09877FCF-86A0-4CF2-9644-81D0B84C1056}|20.GrpcDeadlineTimeout\\20.GrpcDeadlineTimeout.csproj|solutionrelative:20.grpcdeadlinetimeout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09877FCF-86A0-4CF2-9644-81D0B84C1056}|20.GrpcDeadlineTimeout\\20.GrpcDeadlineTimeout.csproj|d:\\git\\.asp.net\\grpcexample\\20.grpcdeadlinetimeout\\validators\\createuserrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09877FCF-86A0-4CF2-9644-81D0B84C1056}|20.GrpcDeadlineTimeout\\20.GrpcDeadlineTimeout.csproj|solutionrelative:20.grpcdeadlinetimeout\\validators\\createuserrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09877FCF-86A0-4CF2-9644-81D0B84C1056}|20.GrpcDeadlineTimeout\\20.GrpcDeadlineTimeout.csproj|d:\\git\\.asp.net\\grpcexample\\20.grpcdeadlinetimeout\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09877FCF-86A0-4CF2-9644-81D0B84C1056}|20.GrpcDeadlineTimeout\\20.GrpcDeadlineTimeout.csproj|solutionrelative:20.grpcdeadlinetimeout\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09877FCF-86A0-4CF2-9644-81D0B84C1056}|20.GrpcDeadlineTimeout\\20.GrpcDeadlineTimeout.csproj|d:\\git\\.asp.net\\grpcexample\\20.grpcdeadlinetimeout\\20.grpcdeadlinetimeout.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{09877FCF-86A0-4CF2-9644-81D0B84C1056}|20.GrpcDeadlineTimeout\\20.GrpcDeadlineTimeout.csproj|solutionrelative:20.grpcdeadlinetimeout\\20.grpcdeadlinetimeout.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C0C7F0-3C8B-4E16-B2B6-7BD73CFDF293}|19.GrpcCompression_Client\\19.GrpcCompression_Client.csproj|d:\\git\\.asp.net\\grpcexample\\19.grpccompression_client\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C0C7F0-3C8B-4E16-B2B6-7BD73CFDF293}|19.GrpcCompression_Client\\19.GrpcCompression_Client.csproj|solutionrelative:19.grpccompression_client\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F959E5A-4B81-4030-92ED-11C4ECBB8303}|19.GrpcCompression\\19.GrpcCompression.csproj|d:\\git\\.asp.net\\grpcexample\\19.grpccompression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F959E5A-4B81-4030-92ED-11C4ECBB8303}|19.GrpcCompression\\19.GrpcCompression.csproj|solutionrelative:19.grpccompression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F959E5A-4B81-4030-92ED-11C4ECBB8303}|19.GrpcCompression\\19.GrpcCompression.csproj|d:\\git\\.asp.net\\grpcexample\\19.grpccompression\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F959E5A-4B81-4030-92ED-11C4ECBB8303}|19.GrpcCompression\\19.GrpcCompression.csproj|solutionrelative:19.grpccompression\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C0C7F0-3C8B-4E16-B2B6-7BD73CFDF293}|19.GrpcCompression_Client\\19.GrpcCompression_Client.csproj|d:\\git\\.asp.net\\grpcexample\\19.grpccompression_client\\19.grpccompression_client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C0C0C7F0-3C8B-4E16-B2B6-7BD73CFDF293}|19.GrpcCompression_Client\\19.GrpcCompression_Client.csproj|solutionrelative:19.grpccompression_client\\19.grpccompression_client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F959E5A-4B81-4030-92ED-11C4ECBB8303}|19.GrpcCompression\\19.GrpcCompression.csproj|d:\\git\\.asp.net\\grpcexample\\19.grpccompression\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F959E5A-4B81-4030-92ED-11C4ECBB8303}|19.GrpcCompression\\19.GrpcCompression.csproj|solutionrelative:19.grpccompression\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F959E5A-4B81-4030-92ED-11C4ECBB8303}|19.GrpcCompression\\19.GrpcCompression.csproj|d:\\git\\.asp.net\\grpcexample\\19.grpccompression\\19.grpccompression.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3F959E5A-4B81-4030-92ED-11C4ECBB8303}|19.GrpcCompression\\19.GrpcCompression.csproj|solutionrelative:19.grpccompression\\19.grpccompression.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0842E93C-EF48-4CC1-90C2-37811745C776}|18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj|d:\\git\\.asp.net\\grpcexample\\18.fileuploaddownload_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0842E93C-EF48-4CC1-90C2-37811745C776}|18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj|solutionrelative:18.fileuploaddownload_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -65,10 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{548A007D-B8E3-424D-999D-D8F765D6B8EB}|17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamchat_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{548A007D-B8E3-424D-999D-D8F765D6B8EB}|17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj|solutionrelative:17.bistreamchat_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F14E600F-CE52-4C93-AF03-5F733A087ACB}|GrpcClient\\GrpcClient.csproj|d:\\git\\.asp.net\\grpcexample\\grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F14E600F-CE52-4C93-AF03-5F733A087ACB}|GrpcClient\\GrpcClient.csproj|solutionrelative:grpcclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C6C6459-0A31-4271-8980-A310D1CB7DDC}|17.BIStreamingChat\\17.BIStreamingChat.csproj|d:\\git\\.asp.net\\grpcexample\\17.bistreamingchat\\protos\\user.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -270,7 +318,172 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20.GrpcDeadlineTimeout_Client",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\20.GrpcDeadlineTimeout_Client\\20.GrpcDeadlineTimeout_Client.csproj",
+              "RelativeDocumentMoniker": "20.GrpcDeadlineTimeout_Client\\20.GrpcDeadlineTimeout_Client.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\20.GrpcDeadlineTimeout_Client\\20.GrpcDeadlineTimeout_Client.csproj",
+              "RelativeToolTip": "20.GrpcDeadlineTimeout_Client\\20.GrpcDeadlineTimeout_Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T09:48:02.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\20.GrpcDeadlineTimeout\\Program.cs",
+              "RelativeDocumentMoniker": "20.GrpcDeadlineTimeout\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\20.GrpcDeadlineTimeout\\Program.cs",
+              "RelativeToolTip": "20.GrpcDeadlineTimeout\\Program.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAJgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:41:52.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression_Client\\Program.cs",
+              "RelativeDocumentMoniker": "19.GrpcCompression_Client\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression_Client\\Program.cs",
+              "RelativeToolTip": "19.GrpcCompression_Client\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:32:04.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\GrpcClient\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcClient\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\GrpcClient\\Program.cs",
+              "RelativeToolTip": "GrpcClient\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:36:58.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateUserRequestValidator.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\20.GrpcDeadlineTimeout\\Validators\\CreateUserRequestValidator.cs",
+              "RelativeDocumentMoniker": "20.GrpcDeadlineTimeout\\Validators\\CreateUserRequestValidator.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\20.GrpcDeadlineTimeout\\Validators\\CreateUserRequestValidator.cs",
+              "RelativeToolTip": "20.GrpcDeadlineTimeout\\Validators\\CreateUserRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:42:08.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\20.GrpcDeadlineTimeout\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "20.GrpcDeadlineTimeout\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\20.GrpcDeadlineTimeout\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "20.GrpcDeadlineTimeout\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:41:35.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20.GrpcDeadlineTimeout",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\20.GrpcDeadlineTimeout\\20.GrpcDeadlineTimeout.csproj",
+              "RelativeDocumentMoniker": "20.GrpcDeadlineTimeout\\20.GrpcDeadlineTimeout.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\20.GrpcDeadlineTimeout\\20.GrpcDeadlineTimeout.csproj",
+              "RelativeToolTip": "20.GrpcDeadlineTimeout\\20.GrpcDeadlineTimeout.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T09:41:25.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression_Client\\Model.cs",
+              "RelativeDocumentMoniker": "19.GrpcCompression_Client\\Model.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression_Client\\Model.cs",
+              "RelativeToolTip": "19.GrpcCompression_Client\\Model.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:39:20.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "19.GrpcCompression\\Services\\UserService.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression\\Services\\UserService.cs",
+              "RelativeToolTip": "19.GrpcCompression\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:36:10.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "19.GrpcCompression_Client",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression_Client\\19.GrpcCompression_Client.csproj",
+              "RelativeDocumentMoniker": "19.GrpcCompression_Client\\19.GrpcCompression_Client.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression_Client\\19.GrpcCompression_Client.csproj",
+              "RelativeToolTip": "19.GrpcCompression_Client\\19.GrpcCompression_Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T09:31:50.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression\\Program.cs",
+              "RelativeDocumentMoniker": "19.GrpcCompression\\Program.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression\\Program.cs",
+              "RelativeToolTip": "19.GrpcCompression\\Program.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAADwv54AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:29:55.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "19.GrpcCompression\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "19.GrpcCompression\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:29:07.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "19.GrpcCompression",
+              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression\\19.GrpcCompression.csproj",
+              "RelativeDocumentMoniker": "19.GrpcCompression\\19.GrpcCompression.csproj",
+              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\19.GrpcCompression\\19.GrpcCompression.csproj",
+              "RelativeToolTip": "19.GrpcCompression\\19.GrpcCompression.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T09:28:35.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Model.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload_Client\\Model.cs",
               "RelativeDocumentMoniker": "18.FileUploadDownload_Client\\Model.cs",
@@ -282,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "18.FileUploadDownload_Client.csproj",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj",
               "RelativeDocumentMoniker": "18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj",
@@ -294,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "18.FileUploadDownload_Client",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj",
               "RelativeDocumentMoniker": "18.FileUploadDownload_Client\\18.FileUploadDownload_Client.csproj",
@@ -305,20 +518,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload_Client\\Program.cs",
               "RelativeDocumentMoniker": "18.FileUploadDownload_Client\\Program.cs",
               "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload_Client\\Program.cs",
               "RelativeToolTip": "18.FileUploadDownload_Client\\Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAA4wFEAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwEQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T08:52:00.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "FileService.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Services\\FileService.cs",
               "RelativeDocumentMoniker": "18.FileUploadDownload\\Services\\FileService.cs",
@@ -330,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "greet.proto",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Protos\\greet.proto",
               "RelativeDocumentMoniker": "18.FileUploadDownload\\Protos\\greet.proto",
@@ -342,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "GreeterService.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Services\\GreeterService.cs",
               "RelativeDocumentMoniker": "18.FileUploadDownload\\Services\\GreeterService.cs",
@@ -354,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "ChatService.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Services\\ChatService.cs",
               "RelativeDocumentMoniker": "18.FileUploadDownload\\Services\\ChatService.cs",
@@ -366,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "file.proto",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Protos\\file.proto",
               "RelativeDocumentMoniker": "18.FileUploadDownload\\Protos\\file.proto",
@@ -378,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Program.cs",
               "RelativeDocumentMoniker": "18.FileUploadDownload\\Program.cs",
@@ -390,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "18.FileUploadDownload.csproj",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\18.FileUploadDownload.csproj",
               "RelativeDocumentMoniker": "18.FileUploadDownload\\18.FileUploadDownload.csproj",
@@ -402,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "18.FileUploadDownload\\Context\\AppDbContext.cs",
@@ -414,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "18.FileUploadDownload",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\18.FileUploadDownload\\18.FileUploadDownload.csproj",
               "RelativeDocumentMoniker": "18.FileUploadDownload\\18.FileUploadDownload.csproj",
@@ -425,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "user.proto",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Protos\\user.proto",
               "RelativeDocumentMoniker": "17.BIStreamingChat\\Protos\\user.proto",
@@ -437,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamChat_Client\\Program.cs",
               "RelativeDocumentMoniker": "17.BIStreamChat_Client\\Program.cs",
@@ -449,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "chat.proto",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Protos\\chat.proto",
               "RelativeDocumentMoniker": "17.BIStreamingChat\\Protos\\chat.proto",
@@ -461,19 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\GrpcClient\\Program.cs",
-              "RelativeDocumentMoniker": "GrpcClient\\Program.cs",
-              "ToolTip": "D:\\git\\.ASP.NET\\GrpcExample\\GrpcClient\\Program.cs",
-              "RelativeToolTip": "GrpcClient\\Program.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAkwG8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T06:36:58.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Program.cs",
               "RelativeDocumentMoniker": "17.BIStreamingChat\\Program.cs",
@@ -485,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "BIChatService.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Services\\BIChatService.cs",
               "RelativeDocumentMoniker": "17.BIStreamingChat\\Services\\BIChatService.cs",
@@ -497,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "17.BIStreamChat_Client.csproj",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj",
               "RelativeDocumentMoniker": "17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj",
@@ -509,7 +710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 32,
               "Title": "Model.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamChat_Client\\Model.cs",
               "RelativeDocumentMoniker": "17.BIStreamChat_Client\\Model.cs",
@@ -521,7 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 33,
               "Title": "17.BIStreamChat_Client",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj",
               "RelativeDocumentMoniker": "17.BIStreamChat_Client\\17.BIStreamChat_Client.csproj",
@@ -532,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "streaming.proto",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Protos\\streaming.proto",
               "RelativeDocumentMoniker": "17.BIStreamingChat\\Protos\\streaming.proto",
@@ -544,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 34,
               "Title": "ChatService.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Services\\ChatService.cs",
               "RelativeDocumentMoniker": "17.BIStreamingChat\\Services\\ChatService.cs",
@@ -556,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 36,
               "Title": "17.BIStreamingChat.csproj",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\17.BIStreamingChat.csproj",
               "RelativeDocumentMoniker": "17.BIStreamingChat\\17.BIStreamingChat.csproj",
@@ -568,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 37,
               "Title": "UserGatewayController.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\Controllers\\UserGatewayController.cs",
               "RelativeDocumentMoniker": "17.BIStreamingChat\\Controllers\\UserGatewayController.cs",
@@ -580,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 38,
               "Title": "17.BIStreamingChat",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\17.BIStreamingChat\\17.BIStreamingChat.csproj",
               "RelativeDocumentMoniker": "17.BIStreamingChat\\17.BIStreamingChat.csproj",
@@ -591,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 42,
               "Title": "GrpcChannelManager.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\GrpcChannelManager.cs",
               "RelativeDocumentMoniker": "16.GrpcPollingRRLB\\GrpcChannelManager.cs",
@@ -603,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 41,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\Program.cs",
               "RelativeDocumentMoniker": "16.GrpcPollingRRLB\\Program.cs",
@@ -615,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 40,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Program.cs",
               "RelativeDocumentMoniker": "15.GrpcStreaming\\Program.cs",
@@ -627,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 39,
               "Title": "ChatService.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Services\\ChatService.cs",
               "RelativeDocumentMoniker": "15.GrpcStreaming\\Services\\ChatService.cs",
@@ -639,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 43,
               "Title": "16.GrpcPollingRRLB.csproj",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj",
               "RelativeDocumentMoniker": "16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj",
@@ -651,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 44,
               "Title": "Model.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\Model.cs",
               "RelativeDocumentMoniker": "16.GrpcPollingRRLB\\Model.cs",
@@ -663,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 45,
               "Title": "16.GrpcPollingRRLB",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj",
               "RelativeDocumentMoniker": "16.GrpcPollingRRLB\\16.GrpcPollingRRLB.csproj",
@@ -674,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 46,
               "Title": "GreeterService.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Services\\GreeterService.cs",
               "RelativeDocumentMoniker": "15.GrpcStreaming\\Services\\GreeterService.cs",
@@ -686,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 47,
               "Title": "GrpcClient.csproj",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\GrpcClient\\GrpcClient.csproj",
               "RelativeDocumentMoniker": "GrpcClient\\GrpcClient.csproj",
@@ -698,7 +899,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 48,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "15.GrpcStreaming\\Services\\UserService.cs",
@@ -710,7 +911,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 49,
               "Title": "streaming.proto",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Protos\\streaming.proto",
               "RelativeDocumentMoniker": "15.GrpcStreaming\\Protos\\streaming.proto",
@@ -722,7 +923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 50,
               "Title": "user.proto",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Protos\\user.proto",
               "RelativeDocumentMoniker": "15.GrpcStreaming\\Protos\\user.proto",
@@ -734,7 +935,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 52,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "15.GrpcStreaming\\Context\\AppDbContext.cs",
@@ -746,7 +947,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 53,
               "Title": "15.GrpcStreaming",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\15.GrpcStreaming.csproj",
               "RelativeDocumentMoniker": "15.GrpcStreaming\\15.GrpcStreaming.csproj",
@@ -757,7 +958,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 51,
               "Title": "15.GrpcStreaming.csproj",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\15.GrpcStreaming\\15.GrpcStreaming.csproj",
               "RelativeDocumentMoniker": "15.GrpcStreaming\\15.GrpcStreaming.csproj",
@@ -769,7 +970,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 54,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\14.GrpcHealthcheck\\Program.cs",
               "RelativeDocumentMoniker": "14.GrpcHealthcheck\\Program.cs",
@@ -781,7 +982,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 55,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\14.GrpcHealthcheck\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "14.GrpcHealthcheck\\Controllers\\AuthController.cs",
@@ -793,7 +994,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 56,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\13.GrpcClientRetryPolicy\\Program.cs",
               "RelativeDocumentMoniker": "13.GrpcClientRetryPolicy\\Program.cs",
@@ -805,7 +1006,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 57,
               "Title": "13.GrpcClientRetryPolicy.csproj",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\13.GrpcClientRetryPolicy\\13.GrpcClientRetryPolicy.csproj",
               "RelativeDocumentMoniker": "13.GrpcClientRetryPolicy\\13.GrpcClientRetryPolicy.csproj",
@@ -817,7 +1018,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 58,
               "Title": "UserGatewayController.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Controllers\\UserGatewayController.cs",
               "RelativeDocumentMoniker": "12.GrpcGateway\\Controllers\\UserGatewayController.cs",
@@ -829,7 +1030,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 60,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Program.cs",
               "RelativeDocumentMoniker": "12.GrpcGateway\\Program.cs",
@@ -841,7 +1042,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 61,
               "Title": "12.GrpcGateway.csproj",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\12.GrpcGateway.csproj",
               "RelativeDocumentMoniker": "12.GrpcGateway\\12.GrpcGateway.csproj",
@@ -853,7 +1054,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 62,
               "Title": "user.proto",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Protos\\user.proto",
               "RelativeDocumentMoniker": "12.GrpcGateway\\Protos\\user.proto",
@@ -865,7 +1066,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 59,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "12.GrpcGateway\\Services\\UserService.cs",
@@ -877,7 +1078,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 63,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "12.GrpcGateway\\Controllers\\AuthController.cs",
@@ -889,7 +1090,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 64,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "12.GrpcGateway\\Context\\AppDbContext.cs",
@@ -901,7 +1102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 65,
               "Title": "12.GrpcGateway",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\12.GrpcGateway\\12.GrpcGateway.csproj",
               "RelativeDocumentMoniker": "12.GrpcGateway\\12.GrpcGateway.csproj",
@@ -912,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 67,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "11.RateLimitings\\Properties\\launchSettings.json",
@@ -924,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 68,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\appsettings.json",
               "RelativeDocumentMoniker": "11.RateLimitings\\appsettings.json",
@@ -936,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 72,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Models\\Dto\\UserDto.cs",
               "RelativeDocumentMoniker": "11.RateLimitings\\Models\\Dto\\UserDto.cs",
@@ -948,7 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 71,
               "Title": "AuthUser.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Models\\AuthUser.cs",
               "RelativeDocumentMoniker": "11.RateLimitings\\Models\\AuthUser.cs",
@@ -960,7 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 66,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Program.cs",
               "RelativeDocumentMoniker": "11.RateLimitings\\Program.cs",
@@ -972,7 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 73,
               "Title": "greet.proto",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Protos\\greet.proto",
               "RelativeDocumentMoniker": "11.RateLimitings\\Protos\\greet.proto",
@@ -984,7 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 70,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "11.RateLimitings\\Controllers\\AuthController.cs",
@@ -996,7 +1197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 69,
               "Title": "11.RateLimitings",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\11.RateLimitings.csproj",
               "RelativeDocumentMoniker": "11.RateLimitings\\11.RateLimitings.csproj",
@@ -1007,7 +1208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 74,
               "Title": "user.proto",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Protos\\user.proto",
               "RelativeDocumentMoniker": "11.RateLimitings\\Protos\\user.proto",
@@ -1019,7 +1220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 75,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\git\\.ASP.NET\\GrpcExample\\11.RateLimitings\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "11.RateLimitings\\Context\\AppDbContext.cs",

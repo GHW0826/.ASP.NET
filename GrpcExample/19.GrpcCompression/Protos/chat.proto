@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcCompression";
+
+package chat;
+
+message BIChatMessage {
+  string user = 1;
+  string message = 2;
+  int64 timestamp = 3;
+}
+
+service BIChatService {
+  rpc Chat(stream BIChatMessage) returns (stream BIChatMessage);
+}

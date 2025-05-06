@@ -1,0 +1,2 @@
+obj\Debug\net9.0/User.cs \
+obj\Debug\net9.0/UserGrpc.cs: ../5.FluentValidation/Protos/user.proto

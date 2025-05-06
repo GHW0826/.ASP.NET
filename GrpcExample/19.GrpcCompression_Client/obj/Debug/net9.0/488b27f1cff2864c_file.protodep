@@ -1,0 +1,2 @@
+obj\Debug\net9.0/File.cs \
+obj\Debug\net9.0/FileGrpc.cs: ../18.FileUploadDownload/Protos/file.proto
