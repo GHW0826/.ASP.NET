@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcStreaming";
+
+package streaming;
+
+message Message {
+  string sender = 1;
+  string content = 2;
+  int64 timestamp = 3;
+}
+
+message Ack {
+  string status = 1;
+}
+
+service ChatService {
+  // 1. 서버 스트리밍
+  rpc ServerStream (Message) returns (stream Message);
+
+  // 2. 클라이언트 스트리밍
+  rpc ClientStream (stream Message) returns (Ack);
+
+  // 3. 양방향 스트리밍
+  rpc BiStream (stream Message) returns (stream Message);
+}

@@ -1,0 +1,6 @@
+@_6.GlobalExceptionMiddleware_HostAddress = http://localhost:5020
+
+GET {{_6.GlobalExceptionMiddleware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
